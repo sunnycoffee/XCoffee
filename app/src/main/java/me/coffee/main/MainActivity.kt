@@ -1,4 +1,4 @@
-package me.coffee
+package me.coffee.main
 
 import android.os.Bundle
 import android.util.Log
